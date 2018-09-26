@@ -1,0 +1,23 @@
+body {
+  background-color: pink;
+  text-align: center; }
+
+h1 {
+  font-style: italic;
+  font-size: 30px;
+  color: red; }
+
+table {
+  font-size: 30px;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%; }
+
+td, th {
+  border: 2px solid #222222;
+  text-align: left;
+  padding: 10px;
+  color: white; }
+
+th {
+  text-align: center; }
